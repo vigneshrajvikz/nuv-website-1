@@ -1481,3 +1481,30 @@ section {
 #footer .credits a {
   color: #9eccf4;
 }
+
+/* added by vignesh */
+#testimonials{
+  background-color: #f5f9fc;
+  color: black;
+  text-align: center;
+}
+
+.testimonial-img{
+  border-radius: 100%;
+  margin: 2%;
+  width: 10%;
+}
+#press{
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px
+}
+.testimonial-img1{
+  /* border-radius: 100%; */
+  margin: 2%;
+  width: 10%;
+}
